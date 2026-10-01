@@ -1,30 +1,34 @@
 # 8. Project Demonstration
 
 ## Project Title
+
 EduGenie: Google Gemini Powered Learning Assistant
 
 ## Demonstration
 
-EduGenie demonstrates how an AI-powered learning assistant can help students with their studies.
+EduGenie is an AI-powered learning assistant designed to help students with their studies. It uses Google Gemini to provide simple and useful answers to students' questions.
 
-### Demonstration Steps
+## Demonstration Steps
 
 1. Open the EduGenie application.
 2. Enter a question about a study topic.
-3. The system processes the question using Gemini AI.
-4. The AI generates a simple explanation.
-5. Enter study material to generate a summary.
-6. Ask EduGenie to generate quiz questions.
-7. Use the generated questions for exam preparation.
+3. The application sends the question to Google Gemini.
+4. Google Gemini processes the question.
+5. The AI-generated answer is displayed to the student.
+6. The student can use the answer for learning and understanding the topic.
 
-## Expected Output
+## Key Features
 
-The student receives simple explanations, summaries, quiz questions and revision support.
+- AI-powered learning assistance
+- Simple and easy-to-understand answers
+- Helps students with study-related questions
+- Powered by Google Gemini
+- User-friendly interface
 
-## Final Outcome
+## Expected Result
 
-EduGenie acts as an AI-powered study assistant that helps students learn, revise and prepare for examinations.
+The EduGenie application provides students with quick and useful AI-generated answers to their study-related questions.
 
 ## Conclusion
 
-The project demonstrates the use of Generative AI to create a useful educational assistant for students.
+EduGenie demonstrates how Artificial Intelligence can be used as a learning assistant to support students in their studies.
